@@ -1,2 +1,2 @@
-# data_bootcamp7
+# Data Science Bootcamp 7
 All my project in the bootcamp
